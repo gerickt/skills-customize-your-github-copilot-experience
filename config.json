@@ -20,6 +20,20 @@
       ]
     },
     {
+      "id": "functions-and-modules",
+      "title": "Functions and Modules",
+      "description": "Reusable functions, parameters, return values, and program structure.",
+      "path": "assignments/functions-and-modules",
+      "dueDate": "2026-05-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "games-in-python",
       "title": "Games in Python",
       "description": "Creating games using Python",
